@@ -31,13 +31,13 @@ Dashboard en Power BI para analizar ventas, costos y utilidades de Adventure Wor
 
 🔹 **[PF-DA-NBA (Proyecto Final Henry)](https://github.com/camiiherrejon-collab/PF-DA-NBA)**  
 Proyecto final de la carrera Data Analyst en Henry. Construcción de pipeline de datos NBA y dashboards analíticos.  
-*Tecnologías:* SQL, Python, Power BI  
+*Tecnologías:* Google Cloud, Python, Power BI  
 
 ---
 
 ## 📩 ¿Cómo Contactarme?
 📍 Estado de México  
-✉️ [camii.herrejon@gmail.com](mailto:camii.herrejon@gmail.com)  
+✉️ [camii.herrejon@gmail.com](mail:camii.herrejon@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/camila-l%C3%B3pez-data-analyst/)  
 
 ✨ *Estoy abierta a nuevas oportunidades y colaboraciones. ¡No dudes en escribirme!*  
