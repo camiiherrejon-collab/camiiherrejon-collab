@@ -21,15 +21,15 @@ Como Analista de Datos, mis habilidades se centran en:
 ---
 
 ## 🚀 Proyectos Destacados
-🔹 **[Biogenesys – Data Analyst ETL](https://github.com/camiiherrejon-collab/Biogenesys-Data-Analyst---ETL)**  
+🔹 **[Biogenesys – Data Analyst ETL]([https://github.com/camiiherrejon-collab/Biogenesys-Data-Analyst---ETL](https://github.com/camiiherrejon-collab/Biogenesys-Data-Analyst---ETL-))**  
 Análisis exploratorio y ETL para identificar oportunidades de expansión de laboratorios en LATAM.  
 *Tecnologías:* Python, Power BI  
 
-🔹 **[Adventure Works – Power BI Dashboard](https://github.com/camiiherrejon-collab/PowerBI-AdventureWorks-Dashboard)**  
+🔹 **[Adventure Works – Power BI Dashboard]([https://github.com/camiiherrejon-collab/PowerBI-AdventureWorks-Dashboard](https://github.com/camiiherrejon-collab/PowerBI-AdventureWorks-Dashboard))**  
 Dashboard en Power BI para analizar ventas, costos y utilidades de Adventure Works Cycles (2010–2014).  
 *Tecnologías:* Power BI, SQL Server, DAX  
 
-🔹 **[PF-DA-NBA (Proyecto Final Henry)](https://github.com/camiiherrejon-collab/PF-DA-NBA)**  
+🔹 **[PF-DA-NBA (Proyecto Final Henry)]([https://github.com/camiiherrejon-collab/PF-DA-NBA](https://github.com/camiiherrejon-collab/PF-DA-NBA))**  
 Proyecto final de la carrera Data Analyst en Henry. Construcción de pipeline de datos NBA y dashboards analíticos.  
 *Tecnologías:* Google Cloud, Python, Power BI  
 
